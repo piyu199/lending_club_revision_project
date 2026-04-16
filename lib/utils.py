@@ -1,1 +1,0 @@
-# this is file to create the utility functions like creating spark session
